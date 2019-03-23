@@ -14,4 +14,4 @@ The CSV file required by ProductivityCSVReader has a specific format used intern
 will probably not be applicable in other situations. 
 
 ## Licensing
-"The code in this project is licensed under MIT license."
+The code in this project is licensed under MIT license.
